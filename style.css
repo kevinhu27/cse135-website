@@ -1,0 +1,22 @@
+#quarter {
+    margin-top: -15px;
+}
+
+#team {
+    background-color: #f2f2f2;
+    border: 1px solid #000000;
+    float: right;
+    margin-top: -45px;
+    padding: 10px;
+}
+
+#assignments {
+    margin-top: 200px;
+}
+
+#assignments ul,
+#assignments p {
+    background-color: #f2f2f2;
+}
+
+
